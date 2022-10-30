@@ -1,0 +1,104 @@
+
+@media screen and ( max-width: 375px) {
+    .c{ display: flex;
+        height: 1em;
+        margin: 0;
+        position: absolute;
+        top: 25%;
+        left: 16%;
+        margin-right: -51%;
+        font-size:200px }
+        .T{
+            height: 2.4em;
+            margin-top: 18px;
+            position: absolute;
+            top: 15%;
+            left: 33%;
+            margin-right: -51%;
+            border-top: 5px solid #333562;
+            border-bottom: 5px solid #333562;
+            font-size: 30px;
+        }
+        .tt{
+            height: 5em;
+            margin: 0;
+            position: absolute;
+            top: 70%;
+            left: 40%;
+            margin-right: -51%;
+           color: #333562;
+        }
+        .S{
+            margin: 0;
+            position: absolute;
+            top: 82%;
+            left: 9%;
+            margin-right: -51%;
+        }
+        .E{
+        background: #333562;
+        border-radius: 20px;
+        height: 63px;
+        width: 327px;
+        border: none;
+
+        }
+        .A{
+            display: flex;
+            height:810px;
+            width:375px;
+            margin-left: auto;
+        margin-right: auto;
+        align-items:center;
+        }
+    body{
+        height:100vh;
+        background: linear-gradient(180deg, #F5F6FB 0%,  #B0B8DE 100%);
+    }
+    /* REGISRER */
+
+.TR h1{
+    font-size: 32px;
+    color: #333562;
+}
+.TR{
+    position: absolute;
+left: 18%;
+right: 18.13%;
+top: 29.93%;
+bottom: 66.63%;
+}
+.Phone{   
+     display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 327px;
+    height: 56px;
+    left: 24px;
+    top: 361px;
+
+
+}
+.Br{ border: none;
+    margin-top: 14px;
+    background: #F5F6FB;
+    border: 1px solid rgba(51, 53, 98, 0.5);
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+.button-con button{
+    background: #333562;
+    border-radius: 20px;
+    height: 63px;
+    width: 327px;
+    border: none;
+
+}
+.button-con{
+    position: absolute;
+width: 327px;
+height: 56px;
+left: 24px;
+top: 441px;
+}
+}
